@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "241472358222",
+    "firebase_url": "https://mp08---red-social-default-rtdb.firebaseio.com",
+    "project_id": "mp08---red-social",
+    "storage_bucket": "mp08---red-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241472358222:android:51f6bb10d2b77714c9401f",
+        "android_client_info": {
+          "package_name": "com.example.mp08_red_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241472358222-rjuvqvrdgnh5ifkju2jdoen6jicc1ijl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mp08_red_social",
+            "certificate_hash": "3809d545df8cf2d6db0d39105db812d2dc79bfcc"
+          }
+        },
+        {
+          "client_id": "241472358222-odtpjbltigjahr9996dabruik8uve1ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaO9b5uQkwFxvBXgIdO95wEAj9eQNDJf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241472358222-odtpjbltigjahr9996dabruik8uve1ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241472358222:android:a7514bef3b46a696c9401f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241472358222-odtpjbltigjahr9996dabruik8uve1ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaO9b5uQkwFxvBXgIdO95wEAj9eQNDJf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241472358222-odtpjbltigjahr9996dabruik8uve1ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241472358222:android:2d17854dde339ae5c9401f",
+        "android_client_info": {
+          "package_name": "com.example.redsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241472358222-odtpjbltigjahr9996dabruik8uve1ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaO9b5uQkwFxvBXgIdO95wEAj9eQNDJf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241472358222-odtpjbltigjahr9996dabruik8uve1ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
